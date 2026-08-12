@@ -1,49 +1,44 @@
-# Hi, I'm Fahad 👋
+<h1 align="center">Hi there, I'm Fahad 👋</h1>
 
-Security enthusiast | SOC & GRC | Building hands-on network security labs
+<p align="center">
+  <b>Security Enthusiast | SOC & GRC | Building Hands-On Network Security Labs</b>
+</p>
 
-### 🟢 Open to Work — SOC Analyst / GRC Analyst / Security Roles
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-SOC%20%2F%20GRC%20Analyst-brightgreen?style=for-the-badge" />
+</p>
 
-## About Me
-- 🔭 I'm currently working on a home lab project for network security monitoring using Wireshark, Nmap, pfSense, and Splunk
-- 🌱 I'm currently learning for my CompTIA Security+ certification
-- 👯 I'm looking to collaborate on SOC/blue team and GRC-related projects
-- 🤔 I'm looking for help with real-world SOC/GRC experience and interview prep
+---
+
+### 🧠 About Me
+
+- 🔭 Currently building a home lab for network security monitoring using Wireshark, Nmap, pfSense, and Splunk
+- 🌱 Studying for my CompTIA Security+ certification
+- 👯 Looking to collaborate on SOC/blue team and GRC-related projects
+- 🤔 Looking for help with real-world SOC/GRC experience and interview prep
 - 💬 Ask me about network security, packet analysis, risk & compliance basics, or home lab setups
-- 📫 How to reach me: https://www.linkedin.com/in/syed-fahad-quadri-8a796a3a8
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/syed-fahad-quadri-8a796a3a8)
 - ⚡ Fun fact: I built my own home lab to practice threat detection before landing my first security role
 
-## 🛠️ Tools & Tech Stack
+---
 
+### 🛠️ Tools & Tech Stack
 
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
+---
 
+### 📊 GitHub Stats
 
-
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat&logo=nmap&logoColor=white)
-
-
-
-
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white)
-
-
-
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-
-
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-
-
-## 📊 GitHub Stats
-
-
-![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahad-Quadri&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fahad-Quadri&show_icons=true&theme=radical" />
+</p>
 
 <!--
 **Fahad-Quadri/Fahad-Quadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
