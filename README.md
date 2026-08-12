@@ -22,6 +22,17 @@
 
 ---
 
+### 💼 Experience
+
+**Security Analyst — HHC Clinic** *(1 yr 4 mos)*
+- Monitored and triaged 50+ security alerts daily, escalating critical incidents per Incident Response procedures
+- Performed routine vulnerability scans on 150+ network devices, tracking remediation with IT Operations
+- Assisted in developing and implementing security policies and procedures
+- Facilitated forensic data collection and documentation for phishing incidents
+- Delivered security awareness training sessions for staff on data protection best practices
+
+---
+
 ### 🛠️ Tools & Tech Stack
 
 <p align="left">
