@@ -88,6 +88,30 @@ flowchart LR
 
 ---
 
+### 🗂️ More Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/Fahad-Quadri/ioc-extractor">🔎 ioc-extractor</a></h4>
+      Python CLI that pulls IPs, domains, URLs, emails, hashes and CVEs out of phishing emails and SIEM alerts, refangs/defangs, exports CSV/JSON for Splunk lookups.<br/><br/>
+      <code>Python</code> <code>unit-tested</code> <code>GitHub Actions</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/Fahad-Quadri/splunk-detection-library">📡 splunk-detection-library</a></h4>
+      8 SPL detections (brute force, password spraying, encoded PowerShell, log clearing, DNS tunneling…) mapped to MITRE ATT&amp;CK, each with tuning and triage steps.<br/><br/>
+      <code>Splunk SPL</code> <code>Sysmon</code> <code>ATT&amp;CK</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/Fahad-Quadri/phishing-analysis-playbook">🎣 phishing-analysis-playbook</a></h4>
+      End-to-end phishing &amp; BEC investigation method: evidence handling, SPF/DKIM/DMARC header analysis, scoping, containment, and an incident report template.<br/><br/>
+      <code>IR</code> <code>BEC</code> <code>HIPAA-aware</code>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🧰 Toolkit
 
 **SIEM · EDR · Detection**
