@@ -49,11 +49,12 @@ analyst:
 
 ---
 
-### 🛡️ Experience
+### 🛡️ Experience & Education
 
 | Role | Organization | Dates | Highlights |
 |---|---|---|---|
 | **SOC Analyst Intern** | Unify Decoders LLC | Jan 2026 – Aug 2026 | 40+ daily Splunk alerts with SOP-based triage · 60+ systems evaluated, 25+ critical/high findings prioritized · Wireshark/Nmap validation of IDS/IPS indicators, 8+ compromises escalated |
+| 🎓 **M.S. Cybersecurity Management** | Lindsey Wilson University | Jan 2024 – Dec 2025 | Graduate study in cybersecurity management between the HHC Clinic role and the Unify Decoders internship |
 | **Security Analyst** | HHC Clinic | Aug 2022 – Nov 2023 | 50+ daily SIEM alerts in healthcare · phishing & BEC investigation with audit-ready evidence · 150+ systems scanned for HIPAA readiness · PCI DSS / ISO policy documentation |
 | **Cybersecurity Intern** | AICTE | Jan 2022 – Jun 2022 | Hybrid Azure / AWS / GCP configuration · segmentation, identity controls & logging · change-control docs with Terraform & PowerShell |
 
