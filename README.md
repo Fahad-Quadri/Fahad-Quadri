@@ -30,7 +30,7 @@ analyst:
   education: M.S. Cybersecurity Management — Lindsey Wilson University
   certs:
     - Google Cybersecurity Professional Certificate  # completed
-    - CompTIA Security+                              # exam scheduled Sep 2026
+    - CompTIA Security+                              # completed Sep 2026
   status:    open to SOC Analyst / Security Analyst roles
 ```
 
@@ -163,7 +163,7 @@ flowchart LR
 
 ### 🎯 Currently
 
-- 📘 Preparing for **CompTIA Security+** (exam scheduled September 2026)
+- 🏅 Earned **CompTIA Security+** (September 2026)
 - 🧪 Extending the home lab — next up: getting an IDS sensor running on a different virtual NIC / hypervisor, and alternatives like Snort
 - 🔎 Practicing attacker TTPs mapped to **MITRE ATT&CK** on Hack The Box
 - 💼 Open to **SOC Analyst / Security Analyst** roles — happy to relocate
