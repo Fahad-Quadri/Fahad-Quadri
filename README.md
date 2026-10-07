@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <a href="https://www.credly.com/badges/7a0e6cea-24ce-4b7d-90bd-537cf50983b0"><img src="https://img.shields.io/badge/CompTIA%20Security%2B-Certified-E31937?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+ Certified" /></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/syed-fahad-quadri-8a796a3a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://fahad-quadri.github.io/"><img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:syedfahadquadri09@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
