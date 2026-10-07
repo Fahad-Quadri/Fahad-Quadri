@@ -163,7 +163,7 @@ flowchart LR
 
 ### 🎯 Currently
 
-- 🏅 Earned **CompTIA Security+** (September 2026)
+- 🏅 Earned **CompTIA Security+** (September 2026) — [verify on Credly](https://www.credly.com/badges/7a0e6cea-24ce-4b7d-90bd-537cf50983b0)
 - 🧪 Extending the home lab — next up: getting an IDS sensor running on a different virtual NIC / hypervisor, and alternatives like Snort
 - 🔎 Practicing attacker TTPs mapped to **MITRE ATT&CK** on Hack The Box
 - 💼 Open to **SOC Analyst / Security Analyst** roles — happy to relocate
