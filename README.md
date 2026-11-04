@@ -59,8 +59,8 @@ analyst:
 |---|---|---|---|
 | **SOC Analyst** | Volexity | Jan 2026 – Oct 2026 | • Built 5+ SIEM detection use cases in Splunk and Sentinel to flag anomalous behavior, privilege escalation, and lateral movement.<br>• Investigated 30+ identity security events across Active Directory, Windows Event IDs, and Azure sign-in logs.<br>• Monitored 100+ Azure security alerts per week for risky sign-ins, admin changes, and exposed cloud resources.<br>• Tuned 10+ detection rules in SPL and KQL, mapped to MITRE ATT&CK, cutting false positives ~15%.<br>• Enriched 50+ alerts with threat intelligence and routed validated incidents through case management. |
 | 🎓 **M.S. Cybersecurity Management** | Lindsey Wilson University | Jan 2024 – Dec 2025 | Graduate study in cybersecurity management between the HHC Clinic role and the Veloxity  |
-| **Security Analyst** | HHC Clinic | Aug 2022 – Nov 2023 | 50+ daily SIEM alerts in healthcare · phishing & BEC investigation with audit-ready evidence · 150+ systems scanned for HIPAA readiness · PCI DSS / ISO policy documentation |
-| **Cybersecurity Intern** | AICTE | Jan 2022 – Jun 2022 | Hybrid Azure / AWS / GCP configuration · segmentation, identity controls & logging · change-control docs with Terraform & PowerShell |
+| **Security Analyst** | HHC Clinic | Jul 2022 – Nov 2023 | 50+ daily SIEM alerts in healthcare · phishing & BEC investigation with audit-ready evidence · 150+ systems scanned for HIPAA readiness · PCI DSS / ISO policy documentation |
+| **Cybersecurity Intern** | AICTE | Jan 2022 – Jun 2022 | Secure hybrid Azure / AWS / GCP operations · logging, identity controls & segmentation · user access reviews · change documentation with PowerShell |
 
 ---
 
